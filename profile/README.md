@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ### ☕ Who We Are
 
 Mont5ab El2hwa is an Egyptian cybersecurity team and research collective of CTF players, security researchers, bug bounty hunters, and challenge creators competing globally and sharing security knowledge.
