@@ -1,16 +1,8 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Mont5ab-El2hwa/.github/main/profile/assets/logo.png" alt="Mont5ab El2hwa Logo" width="140" />
+  <img src="https://raw.githubusercontent.com/Mont5ab-El2hwa/.github/main/profile/assets/logo.png" width="120" alt="Mont5ab El2hwa" />
 
-# Mont5ab El2hwa (2HWA)
-
-### `منتخب القهوة` • Egyptian Cybersecurity & CTF Team 🇪🇬
-
-  <p align="center">
-    <a href="https://ctftime.org/team/402823"><img src="https://img.shields.io/badge/CTFtime-Team_402823-111827?style=flat-square&logo=target&logoColor=white" alt="CTFtime" /></a>
-    <a href="https://www.linkedin.com/company/2hwa"><img src="https://img.shields.io/badge/LinkedIn-2HWA-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:contact@2hwa.xyz"><img src="https://img.shields.io/badge/Email-contact%402hwa.xyz-10B981?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+# Mont5ab El2hwa (2HWA) • `منتخب القهوة` 🇪🇬
 
 </div>
 
@@ -18,7 +10,7 @@
 
 ### ☕ Who We Are
 
-**Mont5ab El2hwa (2HWA)** is an Egyptian cybersecurity team and research collective of CTF players, security researchers, bug bounty hunters, and challenge creators competing globally and sharing security knowledge.
+Mont5ab El2hwa is an Egyptian cybersecurity team and research collective of CTF players, security researchers, bug bounty hunters, and challenge creators competing globally and sharing security knowledge.
 
 <table>
   <tr>
