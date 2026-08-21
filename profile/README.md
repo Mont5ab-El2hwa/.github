@@ -24,28 +24,23 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Mont5ab-El2hwa/.github/main/profile/assets/logo.png" width="30" height="30" /></td>
-    <td><b>Website</b></td>
+    <td><img src="https://raw.githubusercontent.com/Mont5ab-El2hwa/.github/main/profile/assets/logo.png" width="20" height="20" align="center" /> <b>Website</b></td>
     <td><a href="https://2hwa.xyz">2hwa.xyz</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Mont5ab-El2hwa/.github/main/profile/assets/ctftime.png" width="30" height="30" /></td>
-    <td><b>CTFtime</b></td>
+    <td><img src="https://raw.githubusercontent.com/Mont5ab-El2hwa/.github/main/profile/assets/ctftime.png" width="20" height="20" align="center" /> <b>CTFtime</b></td>
     <td><a href="https://ctftime.org/team/402823">Team #402823</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Mont5ab-El2hwa/.github/main/profile/assets/discord.png" width="30" height="30" /></td>
-    <td><b>Discord</b></td>
+    <td><img src="https://raw.githubusercontent.com/Mont5ab-El2hwa/.github/main/profile/assets/discord.png" width="20" height="20" align="center" /> <b>Discord</b></td>
     <td><a href="https://discord.gg/djpMH7sXuX">Join Community</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Mont5ab-El2hwa/.github/main/profile/assets/linkedin.png" width="30" height="30" /></td>
-    <td><b>LinkedIn</b></td>
+    <td><img src="https://raw.githubusercontent.com/Mont5ab-El2hwa/.github/main/profile/assets/linkedin.png" width="20" height="20" align="center" /> <b>LinkedIn</b></td>
     <td><a href="https://www.linkedin.com/company/2hwa">Mont5ab El2hwa</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Mont5ab-El2hwa/.github/main/profile/assets/email.png" width="30" height="30" /></td>
-    <td><b>Email</b></td>
+    <td><img src="https://raw.githubusercontent.com/Mont5ab-El2hwa/.github/main/profile/assets/email.png" width="20" height="20" align="center" /> <b>Email</b></td>
     <td><a href="mailto:contact@2hwa.xyz">contact@2hwa.xyz</a></td>
   </tr>
 </table>
