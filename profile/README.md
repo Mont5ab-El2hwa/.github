@@ -7,9 +7,7 @@
 ### `منتخب القهوة` • Egyptian Cybersecurity & CTF Team 🇪🇬
 
   <p align="center">
-    <a href="https://2hwa.xyz"><img src="https://img.shields.io/badge/Website-2hwa.xyz-E11D48?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://ctftime.org/team/402823"><img src="https://img.shields.io/badge/CTFtime-Team_402823-111827?style=flat-square&logo=target&logoColor=white" alt="CTFtime" /></a>
-    <a href="https://discord.gg/djpMH7sXuX"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
     <a href="https://www.linkedin.com/company/2hwa"><img src="https://img.shields.io/badge/LinkedIn-2HWA-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:contact@2hwa.xyz"><img src="https://img.shields.io/badge/Email-contact%402hwa.xyz-10B981?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
