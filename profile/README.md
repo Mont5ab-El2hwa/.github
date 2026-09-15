@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="assets/logo.png" width="120" alt="Mont5ab El2hwa Logo" />
-  <h1>Mont5ab El2hwa (2HWA) • 🇪🇬</h1>
-</div>
-
 ### About Us
 
 Established in March 2025, **Mont5ab El2hwa** (`منتخب القهوة`) is an Egyptian cybersecurity collective specializing in competitive Capture The Flag (CTF) competitions and vulnerability research. Comprising students and graduates across computer science and diverse IT disciplines, our roster unites penetration testers, bug bounty hunters, security analysts, and challenge creators dedicated to competing globally and sharing technical knowledge through open research.
